@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8a10a787973171107ce7fef3a253af81" label="ServiceTable" max_length="40" name="x_836157_integrati_servicetable" type="collection">
+        <element label="NewService" max_length="40" name="newservice" type="boolean"/>
         <element label="ServiceName" max_length="40" name="servicename" type="string"/>
         <element label="ServiceNum" max_length="40" name="servicenum" type="string"/>
     </element>
